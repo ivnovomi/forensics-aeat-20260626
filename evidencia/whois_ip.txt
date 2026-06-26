@@ -1,0 +1,78 @@
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.130.0.0 - 43.130.63.255'
+
+% Abuse contact for '43.130.0.0 - 43.130.63.255' is 'abuse@tencent.com'
+
+inetnum:        43.130.0.0 - 43.130.63.255
+netname:        ACE-SG
+descr:          6 COLLYER QUAY
+country:        US
+admin-c:        APA7-AP
+tech-c:         APA7-AP
+abuse-c:        AA1875-AP
+status:         ALLOCATED NON-PORTABLE
+mnt-by:         MAINT-ACEVILLEPTELTD-SG
+mnt-irt:        IRT-ACEVILLEPTELTD-SG
+last-modified:  2023-10-12T02:02:11Z
+source:         APNIC
+
+irt:            IRT-ACEVILLEPTELTD-SG
+address:        16 COLLYER QUAY,
+e-mail:         qcloud_net_duty@tencent.com
+abuse-mailbox:  abuse@tencent.com
+admin-c:        APA7-AP
+tech-c:         APA7-AP
+auth:           # Filtered
+remarks:        qcloud_net_duty@tencent.com is invalid
+remarks:        abuse@tencent.com was validated on 2026-05-15
+mnt-by:         MAINT-ACEVILLEPTELTD-SG
+last-modified:  2026-05-15T03:04:37Z
+source:         APNIC
+
+role:           ABUSE ACEVILLEPTELTDSG
+country:        ZZ
+address:        16 COLLYER QUAY,
+phone:          +000000000
+e-mail:         qcloud_net_duty@tencent.com
+admin-c:        APA7-AP
+tech-c:         APA7-AP
+nic-hdl:        AA1875-AP
+remarks:        Generated from irt object IRT-ACEVILLEPTELTD-SG
+remarks:        qcloud_net_duty@tencent.com is invalid
+remarks:        abuse@tencent.com was validated on 2026-05-15
+abuse-mailbox:  abuse@tencent.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2026-05-15T03:05:21Z
+source:         APNIC
+
+role:           ACEVILLE PTELTD administrator
+address:        16 COLLYER QUAY, #18-29, INCOME AT RAFFLES, SINGAPORE
+country:        SG
+phone:          +8613923479936
+fax-no:         +8613923479936
+e-mail:         qcloud_net_duty@tencent.com
+admin-c:        APA7-AP
+tech-c:         APA7-AP
+nic-hdl:        APA7-AP
+mnt-by:         MAINT-ACEVILLEPTELTD-SG
+last-modified:  2023-03-17T12:36:41Z
+source:         APNIC
+
+% Information related to '43.130.56.0/24AS132203'
+
+route:          43.130.56.0/24
+country:        US
+origin:         AS132203
+descr:          ACEVILLE PTE.LTD.
+                16 COLLYER QUAY
+                #18-29
+                INCOME AT RAFFLES
+mnt-by:         MAINT-ACEVILLEPTELTD-SG
+last-modified:  2023-08-09T11:59:04Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.48 (WHOIS-UK2)
+
+

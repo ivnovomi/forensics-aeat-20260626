@@ -1,0 +1,76 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            05:4e:25:5f:2e:cb:32:87:6f:cb:85:15:6b:fc:09:e4:ae:99
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C=US, O=Let's Encrypt, CN=YE2
+        Validity
+            Not Before: Jun 26 08:01:00 2026 GMT
+            Not After : Sep 24 08:00:59 2026 GMT
+        Subject: CN=agenciatributaria.gob-at.eu.cc
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:9e:b0:5f:af:8c:6e:56:e5:54:1f:c8:0b:47:a8:
+                    75:df:d1:7b:6e:c0:4c:fa:c7:36:1a:00:9d:38:55:
+                    9b:ba:db:74:a5:84:6b:4d:7d:05:b7:b7:c0:12:23:
+                    db:38:a0:d4:85:20:f1:9c:d7:bc:22:a8:b1:74:b7:
+                    c2:fc:26:90:a9
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                D0:56:57:7E:37:A7:B3:87:7E:97:30:2D:A5:45:62:CB:B6:B3:96:05
+            X509v3 Authority Key Identifier: 
+                B9:59:F2:8E:CF:22:F0:86:D3:37:48:FF:76:14:18:BA:82:D8:55:87
+            Authority Information Access: 
+                CA Issuers - URI:http://ye2.i.lencr.org/
+            X509v3 Subject Alternative Name: 
+                DNS:agenciatributaria.gob-at.eu.cc
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:http://ye2.c.lencr.org/26.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : C2:31:7E:57:45:19:A3:45:EE:7F:38:DE:B2:90:41:EB:
+                                C7:C2:21:5A:22:BF:7F:D5:B5:AD:76:9A:D9:0E:52:CD
+                    Timestamp : Jun 26 08:59:31.030 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:21:00:84:B3:F8:BB:2D:07:79:27:47:CD:73:
+                                A4:81:81:1F:BD:04:AC:46:61:DE:18:B0:95:81:F4:2F:
+                                2D:19:FE:74:CB:02:20:2D:86:C3:D7:DD:7D:2A:61:67:
+                                BB:0E:B8:93:7A:2C:60:68:26:C6:1C:FA:40:95:D7:A7:
+                                EF:11:3E:65:84:87:37
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 26:E3:64:6E:58:69:21:23:BC:34:3F:47:24:35:9B:37:
+                                92:CD:24:5A:88:D8:15:D3:93:33:FD:99:18:AB:47:23
+                    Timestamp : Jun 26 08:59:30.717 2026 GMT
+                    Extensions: 00:00:05:00:22:55:41:5C
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:21:00:86:26:0A:93:9D:04:58:7E:D9:E4:AA:
+                                1C:3B:55:ED:C7:16:E5:E6:F7:C1:ED:84:D1:63:45:E5:
+                                EB:5D:E1:00:6C:02:20:3D:87:E3:55:D2:57:F4:A9:04:
+                                4D:18:4A:03:70:9B:95:6C:41:92:B1:C8:A5:C6:3B:0C:
+                                2B:6A:F5:B0:B5:76:CA
+    Signature Algorithm: ecdsa-with-SHA384
+    Signature Value:
+        30:65:02:31:00:cc:db:69:64:15:cb:e2:6a:2b:37:f2:86:10:
+        df:8e:4b:39:bb:05:33:66:78:76:a0:90:9e:73:cb:b9:11:92:
+        d5:25:fb:ef:2d:6a:d6:d5:e7:be:35:0c:e0:c1:0a:7d:63:02:
+        30:24:b7:2d:00:e8:29:74:0f:3e:7b:2a:a9:d1:cd:1a:7c:9a:
+        92:69:2d:c7:36:11:9c:27:3e:1a:f3:cd:dd:10:cd:d0:7a:f2:
+        5f:6c:86:44:eb:23:fb:aa:9c:54:36:96:5c

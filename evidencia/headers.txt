@@ -1,0 +1,15 @@
+HTTP/2 200 
+accept-ranges: bytes
+access-control-allow-headers: *
+access-control-allow-methods: *
+access-control-allow-origin: *
+alt-svc: h3=":443"; ma=2592000
+cache-control: no-cache, must-revalidate
+content-type: text/html; charset=utf-8
+date: Fri, 26 Jun 2026 10:03:25 GMT
+etag: "6e8d35d504d88f068385050cffca7aca"
+last-modified: Fri, 19 Jun 2026 12:57:32 GMT
+via: 1.1 Caddy
+x-content-type-options: nosniff
+content-length: 2165
+

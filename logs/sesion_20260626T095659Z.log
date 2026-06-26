@@ -1,0 +1,1003 @@
+Script started on 2026-06-26 05:56:59-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="77" LINES="28"]
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hd[4md[24m[4md[4ma[24m[4md[4ma[4mt[24m[4mt[4me[24m[24m[36md[24m[36ma[24m[36mt[24m[36me[39m[36me[36m [39m[36me[39m[39m .[1m.[0m[0m -[32m-[39m[32m-[32mu[39m[?1l>[?2004l
+Fri Jun 26 09:57:13 AM UTC 2026
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hw[36mw[39m[36mw[36mg[39m[39mw[39mgh[4mw[4mg[4mh[24m[4mh[4mo[24m[4mh[24m[24m [4mw[4mg[24m[24m [4mw[24m[24m [24m[36mw[39m[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mw[4mh[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36mi[39m[39mw[39mh[39mo[39miu[4mw[4mh[4mo[4mi[4mu[24m[4mi[24m[24m [4mi[4ms[24m[24m[36mw[24m[36mh[24m[36mo[24m[36mi[24m[36ms[39m[36ms[36m [39m[36ms[39m[39m script -a logs/sesion_$(date -u +%Y%m%dT%H%M%SZ).log[45D[32m-[32ma[39m[13C[1m[35m$[1m[34m([0m[39m[36md[36ma[36mt[36me[39m [32m-[32mu[39m[16C[1m[34m)[0m[39m[4C    [0m[39m [24D[1m[31m([0m[39m[23C               [32m-[39m[39m [39m [36mt[39m[39m [39m[4md[39m[4ma[39m[4mt[24m[4ma[24m[24m [4md[24m[24m [24m [1m[35m$[0m[39m[0m[39m [0m[39m$ [12D[1ml[1mo[1mg[1ms[1m/[1ms[1me[1ms[1mi[1mo[1mn[1m_[0m[1mn[0m[0m [1mo[0m[0m [1mi[0m[0m [1ms[0m[0m [1me[0m[0m [1ms[0m[0m [1m/[0m[0m [1ms[0m[0m [1mg[0m[0m [1mo[0m[0m [1ml[0m[0m [0m [32m-[39m[39m [39m       [7m^[[27m[8D[39mw[39mh[39mo[39mi[39ms[3C[200~https://agenciatributaria.gob-at.eu.cc/es~[55D[36mw[36mh[36mo[36mi[36ms[39m[3C[1m[31m[[0m[39m[46C                                              [0m[39m [27m [27m https://agenciatributaria.gob-at.eu.cc/es[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mwhois[39m https://agenciatributaria.gob-at.eu.cc/es [38;5;244ms[39m [39m [38;5;244mes[39m [39m [39m [38;5;244m/es[39m[16C[39m [39m [39m [19D[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hwhois https://agenciatributaria.gob-at.eu.cc[44D[36mw[36mh[36mo[36mi[36ms[39m[39C [38;5;244mc[39m [39m [38;5;244mcc[39m [39m [39m [38;5;244m.cc[39m [39m [39m [39m [38;5;244mu.cc[39m [39m [39m [39m [39m [38;5;244meu.cc[39m [39m [39m [39m [39m [39m [38;5;244m.eu.cc[39m [39m [39m [39m [39m [39m [39m [38;5;244mt.eu.cc[39m [39m [39m [39m [39m [39m [39m [39m [8D[38;5;244mat.eu.cc[39m[8D [39m [39m [39m [39m [39m [39m [39m [39m [9D[38;5;244m-at.eu.cc[39m[9D [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[38;5;244mb-at.eu.cc[39m[10D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[38;5;244mob-at.eu.cc[39m[11D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[38;5;244mgob-at.eu.cc[39m[12D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[38;5;244m.gob-at.eu.cc[39m[13D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[38;5;244ma.gob-at.eu.cc[39m[14D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;5;244mia.gob-at.eu.cc[39m[15D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[38;5;244mria.gob-at.eu.cc[39m[16D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[38;5;244maria.gob-at.eu.cc[39m[17D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;5;244mtaria.gob-at.eu.cc[39m[18D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[38;5;244mutaria.gob-at.eu.cc[39m[19D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[38;5;244mbutaria.gob-at.eu.cc[39m[20D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[38;5;244mibutaria.gob-at.eu.cc[39m[21D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[38;5;244mributaria.gob-at.eu.cc[39m[22D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[38;5;244mtributaria.gob-at.eu.cc[39m[23D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[38;5;244matributaria.gob-at.eu.cc[39m[24D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [25D[38;5;244miatributaria.gob-at.eu.cc[39m[25D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[38;5;244mciatributaria.gob-at.eu.cc[39m[26D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [27D[38;5;244mnciatributaria.gob-at.eu.cc[39m[27D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [28D[38;5;244menciatributaria.gob-at.eu.cc[39m[28D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [29D[38;5;244mgenciatributaria.gob-at.eu.cc[39m[29D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [30D[38;5;244magenciatributaria.gob-at.eu.cc[39m[30D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [31D[38;5;244m/agenciatributaria.gob-at.eu.cc[39m[31D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [32D[38;5;244m//agenciatributaria.gob-at.eu.cc[39m[32D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [33D[38;5;244m://agenciatributaria.gob-at.eu.cc[39m[33D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [34D[38;5;244ms://agenciatributaria.gob-at.eu.cc[39m[34D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [35D[38;5;244mps://agenciatributaria.gob-at.eu.cc[39m[35D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [36D[38;5;244mtps://agenciatributaria.gob-at.eu.cc[39m[36D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [37D[38;5;244mttps://agenciatributaria.gob-at.eu.cc[39m[37D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [38D[38;5;244mhttps://agenciatributaria.gob-at.eu.cc[39m[38D[39me[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [37D[1me[0m[1me[1mu[0m[0me[0mu [1me[0m[0m [38;5;244mhttps://agenciatributaria.gob-at.eu.cc[39m[38D[39me[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [37D[1me[0m[1me[1mu[0m[0me[0mu.css[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hwhois eu.css[12D[36mw[36mh[36mo[36mi[36ms[39m[7Cheu.cssteu.cssteu.csspeu.css[10D[39mw[39mh[39mo[39mi[39ms[5C[eu.css[11D[36mw[36mh[36mo[36mi[36ms[39m[5C[1m[31m[[0m[39m[0m[39meu.css seu.css:eu.css/eu.css/eu.css[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hhttps://agenciatributaria.gob-at.eu.cc/es[41D[4mh[4mt[4mt[4mp[4ms[4m:[4m/[4m/[4ma[4mg[4me[4mn[4mc[4mi[4ma[4mt[4mr[4mi[4mb[4mu[4mt[4ma[4mr[4mi[4ma[4m.[4mg[4mo[4mb[4m-[4ma[4mt[4m.[4me[4mu[4m.[4mc[4mc[4m/[4me[4ms[24m[?1l>[?2004l
+zsh: no such file or directory: https://agenciatributaria.gob-at.eu.cc/es
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hw[36mw[39m[36mw[39m[38;5;244mhois https://eu.css[39m[19D[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mw[4mh[39m[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36mi[39m[39m[4mw[39m[4mh[39m[4mo[39m[4mi[24m[4mi[39m[4ms[24m[24m[36mw[24m[36mh[24m[36mo[24m[36mi[24m[36ms[39m[36ms[36m [39m[36ms[39m[39m [39mh[39mt[39mt[39mp[39ms[39m:[39m/[39m/[39ma[39mg[39me[39mn[39mc[39miatributaria.gob-at.eu.cc/es[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hw[36mw[39m[36mw[39m[38;5;244mhois https://agenciatributaria.gob-at.eu.cc/es[39m[46D[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mw[4mh[39m[4mi[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [44D[4mw[4mh[24m[24m [38;5;244mois https://agenciatributaria.gob-at.eu.cc/es[39m[45D[4mw[4mh[39m[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36mp[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [43D[39m[4mw[39m[4mh[39m[4mo[39m[4mp[24m[4mo[24m[24m [24m[36mw[24m[36mh[24m[36mo[39m[38;5;244mis https://agenciatributaria.gob-at.eu.cc/es[39m[44D[36mo[36mi[39m[39m[4mw[39m[4mh[39m[4mo[39m[4mi[24m[4mi[39m[4ms[24m[24m[36mw[24m[36mh[24m[36mo[24m[36mi[24m[36ms[39m[36ms[36m [39m[36ms[39m[39m [39m@[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [40D:  [38;5;244mhttps://agenciatributaria.gob-at.eu.cc/es[39m[41D[39m@[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [40D@  [38;5;244mhttps://agenciatributaria.gob-at.eu.cc/es[39m[41D[39m"[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [40D[33m"[39m[33m"[33m"[39m[33mh[33mttps://agenciatributaria.gob-at.eu.cc/es"[39m[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hw[36mw[39m[36mw[39m[38;5;244mhois "https://agenciatributaria.gob-at.eu.cc/es"[39m[48D[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mw[4mh[39m[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36mi[39m[39m[4mw[39m[4mh[39m[4mo[39m[4mi[24m[4mi[39m[4ms[24m[24m[36mw[24m[36mh[24m[36mo[24m[36mi[24m[36ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [44D[?1l>[?2004l
+Usage: whois [OPTION]... OBJECT...
+
+-h HOST, --host HOST   connect to server HOST
+-p PORT, --port PORT   connect to PORT
+-I                     query whois.iana.org and follow its referral
+-H                     hide legal disclaimers
+      --verbose        explain what is being done
+      --no-recursion   disable recursion from registry to registrar servers
+      --help           display this help and exit
+      --version        output version information and exit
+
+These flags are supported by whois.ripe.net and some RIPE-like servers:
+-l                     find the one level less specific match
+-L                     find all levels less specific matches
+-m                     find all one level more specific matches
+-M                     find all levels of more specific matches
+-c                     find the smallest match containing a mnt-irt attribute
+-x                     exact match
+-b                     return brief IP address ranges with abuse contact
+-B                     turn off object filtering (show email addresses)
+-G                     turn off grouping of associated objects
+-d                     return DNS reverse delegation objects too
+-i ATTR[,ATTR]...      do an inverse look-up for specified ATTRibutes
+-T TYPE[,TYPE]...      only look for objects of TYPE
+-K                     only primary keys are returned
+-r                     turn off recursive look-ups for contact information
+-R                     force to show local copy of the domain object even
+                       if it contains referral
+-a                     also search all the mirrored databases
+-s SOURCE[,SOURCE]...  search the database mirrored from SOURCE
+-g SOURCE:FIRST-LAST   find updates from SOURCE from serial FIRST to LAST
+-t TYPE                request template for object of TYPE
+-v TYPE                request verbose template for object of TYPE
+-q [version|sources|types]  query specified server info
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[7m^[[27m[200~D="agenciatributaria.gob-at.eu.cc"[?1l>[?2004l
+zsh: bad pattern: ^[[200~D=agenciatributaria.gob-at.eu.cc
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hUURL="https://$D/es"~[16D[33m"[33mh[33mt[33mt[33mp[33ms[33m:[33m/[33m/[1m[35m$[1m[35mD[0m[39m[33m/[33me[33ms[33m"[39m[1C[?2004l
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[[200~D="agenciatributaria.gob-at.eu.cc"[?1l>[?2004l
+zsh: bad pattern: [200~D=agenciatributaria.gob-at.eu.cc
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hUURL="https://$D/es"~[16D[33m"[33mh[33mt[33mt[33mp[33ms[33m:[33m/[33m/[1m[35m$[1m[35mD[0m[39m[33m/[33me[33ms[33m"[39m[1C[?1l>[?2004l
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hc[1mc[0m[1mc[1ml[0m[0m[4mc[0m[4ml[24m[4mc[4ml[4me[24m[4me[4ma[24m[4ma[4mr[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[24m[36mr[39m[?1l>[?2004l
+[H[2J[3J                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hD[4mD[24m[4mD[4m>[24m[4mD[24m[24m[1m[34m>[0m[39m[4mD[24m[0m[39m [4mD[4m:[24m[4mD[24m[24m [24m agenciatributaria.gob-at.eu.cc[30D[4ma[4mg[4me[4mn[4mc[4mi[4ma[4mt[4mr[4mi[4mb[4mu[4mt[4ma[4mr[4mi[4ma[4m.[4mg[4mo[4mb[4m-[4ma[4mt[4m.[4me[4mu[4m.[4mc[4mc[24m[4mc[24m[24m [4m.[24m[24m [4mu[24m[24m [4me[24m[24m [4m.[24m[24m [4mt[24m[24m [4ma[24m[24m [4m-[24m[24m [4mb[24m[24m [4mo[24m[24m [4mg[24m[24m [4m.[24m[24m [4ma[24m[24m [4mi[24m[24m [4mr[24m[24m [4ma[24m[24m [4mt[24m[24m [4mu[24m[24m [4mb[24m[24m [4mi[24m[24m [4mr[24m[24m [4mt[24m[24m [4ma[24m[24m [4mi[24m[24m [4mc[24m[24m [4mn[24m[24m [4me[24m[24m [4ma[4mg[24m[24m [4ma[24m[24m [24m l[36ml[39m[36ml[36ms[39m[?1l>[?2004l
+[0m[01;34mcapturas[0m  [01;34mevidencia[0m  [01;34mlogs[0m
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hc[1mc[0m[1mc[0m[38;5;244mlear[39m[1mc[39m[1md[0m[39m [39m [39m [0m[36mc[0m[36md[39m[36mc[36md[36m [39m[36mc[36md[39m[39m l[1ml[0m[1ml[1mo[0m[1mo[1mb[0m[0ml[0mo[0mb [1ml[1mo[0m[1mo[1mg[0m[1mg[1ms[0m[?1l>[?2004l
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat/logs
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat/logs[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hc[4mc[24m[4mc[24m[38;5;244md logs[39m[4mc[39m[4ma[24m[39m [39m [39m [39m [39m [4mc[4ma[4mt[24m[24m[36mc[24m[36ma[24m[36mt[39m[36mc[36ma[39m[39m [39m[4mc[39m[4ma[24m[4mc[24m[24m [4mc[24m[38;5;244md logs[39m[24m [39m [39m [39m [39m [39m [39m l[36ml[39m[36ml[39m[38;5;244ms[39m[36ml[36ms[39m[?1l>[?2004l
+sesion_20260626T095659Z.log
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat/logs
+\[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat/logs[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h\[4m\[24m[4m\[4mc[24m[4m\[4mc[4ma[24m[4ma[4mt[24m[24m[36m\[24m[36mc[24m[36ma[24m[36mt[39m[36mt[36m [39m[36mt[39m[39m [36ma[39m[39m [39m[4m\[39m[4mc[39m[4ma[24m[4m\[4mc[24m[24m [4m\[24m[24m [24m c[4mc[24m[4mc[24m[38;5;244md logs[39m[4mc[39m[4ma[24m[39m [39m [39m [39m [39m [4mc[4ma[4mt[24m[24m[36mc[24m[36ma[24m[36mt[39m[36mt[36m [39m[36mt[39m[39m s[1ms[0m[1ms[1me[0m[1me[1ms[0m[1ms[1mi[0m[1mi[1mon_20260626T095659Z.log[0m[1m [0m[0m [?1l>[?2004l
+Script started on 2026-06-26 05:56:59-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="77" LINES="28"]
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hd[4md[24m[4md[4ma[24m[4md[4ma[4mt[24m[4mt[4me[24m[24m[36md[24m[36ma[24m[36mt[24m[36me[39m[36me[36m [39m[36me[39m[39m .[1m.[0m[0m -[32m-[39m[32m-[32mu[39m[?1l>[?2004l
+Fri Jun 26 09:57:13 AM UTC 2026
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hw[36mw[39m[36mw[36mg[39m[39mw[39mgh[4mw[4mg[4mh[24m[4mh[4mo[24m[4mh[24m[24m [4mw[4mg[24m[24m [4mw[24m[24m [24m[36mw[39m[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mw[4mh[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36mi[39m[39mw[39mh[39mo[39miu[4mw[4mh[4mo[4mi[4mu[24m[4mi[24m[24m [4mi[4ms[24m[24m[36mw[24m[36mh[24m[36mo[24m[36mi[24m[36ms[39m[36ms[36m [39m[36ms[39m[39m script -a logs/sesion_$(date -u +%Y%m%dT%H%M%SZ).log[45D[32m-[32ma[39m[13C[1m[35m$[1m[34m([0m[39m[36md[36ma[36mt[36me[39m [32m-[32mu[39m[16C[1m[34m)[0m[39m[4C    [0m[39m [24D[1m[31m([0m[39m[23C               [32m-[39m[39m [39m [36mt[39m[39m [39m[4md[39m[4ma[39m[4mt[24m[4ma[24m[24m [4md[24m[24m [24m [1m[35m$[0m[39m[0m[39m [0m[39m$ [12D[1ml[1mo[1mg[1ms[1m/[1ms[1me[1ms[1mi[1mo[1mn[1m_[0m[1mn[0m[0m [1mo[0m[0m [1mi[0m[0m [1ms[0m[0m [1me[0m[0m [1ms[0m[0m [1m/[0m[0m [1ms[0m[0m [1mg[0m[0m [1mo[0m[0m [1ml[0m[0m [0m [32m-[39m[39m [39m       [7m^[[27m[8D[39mw[39mh[39mo[39mi[39ms[3C[200~https://agenciatributaria.gob-at.eu.cc/es~[55D[36mw[36mh[36mo[36mi[36ms[39m[3C[1m[31m[[0m[39m[46C                                              [0m[39m [27m [27m https://agenciatributaria.gob-at.eu.cc/es[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mwhois[39m https://agenciatributaria.gob-at.eu.cc/es [38;5;244ms[39m [39m [38;5;244mes[39m [39m [39m [38;5;244m/es[39m[16C[39m [39m [39m [19D[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hwhois https://agenciatributaria.gob-at.eu.cc[44D[36mw[36mh[36mo[36mi[36ms[39m[39C [38;5;244mc[39m [39m [38;5;244mcc[39m [39m [39m [38;5;244m.cc[39m [39m [39m [39m [38;5;244mu.cc[39m [39m [39m [39m [39m [38;5;244meu.cc[39m [39m [39m [39m [39m [39m [38;5;244m.eu.cc[39m [39m [39m [39m [39m [39m [39m [38;5;244mt.eu.cc[39m [39m [39m [39m [39m [39m [39m [39m [8D[38;5;244mat.eu.cc[39m[8D [39m [39m [39m [39m [39m [39m [39m [39m [9D[38;5;244m-at.eu.cc[39m[9D [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[38;5;244mb-at.eu.cc[39m[10D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[38;5;244mob-at.eu.cc[39m[11D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[38;5;244mgob-at.eu.cc[39m[12D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[38;5;244m.gob-at.eu.cc[39m[13D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[38;5;244ma.gob-at.eu.cc[39m[14D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;5;244mia.gob-at.eu.cc[39m[15D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[38;5;244mria.gob-at.eu.cc[39m[16D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[38;5;244maria.gob-at.eu.cc[39m[17D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;5;244mtaria.gob-at.eu.cc[39m[18D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[38;5;244mutaria.gob-at.eu.cc[39m[19D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[38;5;244mbutaria.gob-at.eu.cc[39m[20D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[38;5;244mibutaria.gob-at.eu.cc[39m[21D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[38;5;244mributaria.gob-at.eu.cc[39m[22D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[38;5;244mtributaria.gob-at.eu.cc[39m[23D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[38;5;244matributaria.gob-at.eu.cc[39m[24D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [25D[38;5;244miatributaria.gob-at.eu.cc[39m[25D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[38;5;244mciatributaria.gob-at.eu.cc[39m[26D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [27D[38;5;244mnciatributaria.gob-at.eu.cc[39m[27D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [28D[38;5;244menciatributaria.gob-at.eu.cc[39m[28D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [29D[38;5;244mgenciatributaria.gob-at.eu.cc[39m[29D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [30D[38;5;244magenciatributaria.gob-at.eu.cc[39m[30D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [31D[38;5;244m/agenciatributaria.gob-at.eu.cc[39m[31D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [32D[38;5;244m//agenciatributaria.gob-at.eu.cc[39m[32D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [33D[38;5;244m://agenciatributaria.gob-at.eu.cc[39m[33D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [34D[38;5;244ms://agenciatributaria.gob-at.eu.cc[39m[34D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [35D[38;5;244mps://agenciatributaria.gob-at.eu.cc[39m[35D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [36D[38;5;244mtps://agenciatributaria.gob-at.eu.cc[39m[36D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [37D[38;5;244mttps://agenciatributaria.gob-at.eu.cc[39m[37D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [38D[38;5;244mhttps://agenciatributaria.gob-at.eu.cc[39m[38D[39me[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [37D[1me[0m[1me[1mu[0m[0me[0mu [1me[0m[0m [38;5;244mhttps://agenciatributaria.gob-at.eu.cc[39m[38D[39me[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [37D[1me[0m[1me[1mu[0m[0me[0mu.css[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hwhois eu.css[12D[36mw[36mh[36mo[36mi[36ms[39m[7Cheu.cssteu.cssteu.csspeu.css[10D[39mw[39mh[39mo[39mi[39ms[5C[eu.css[11D[36mw[36mh[36mo[36mi[36ms[39m[5C[1m[31m[[0m[39m[0m[39meu.css seu.css:eu.css/eu.css/eu.css[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hhttps://agenciatributaria.gob-at.eu.cc/es[41D[4mh[4mt[4mt[4mp[4ms[4m:[4m/[4m/[4ma[4mg[4me[4mn[4mc[4mi[4ma[4mt[4mr[4mi[4mb[4mu[4mt[4ma[4mr[4mi[4ma[4m.[4mg[4mo[4mb[4m-[4ma[4mt[4m.[4me[4mu[4m.[4mc[4mc[4m/[4me[4ms[24m[?1l>[?2004l
+zsh: no such file or directory: https://agenciatributaria.gob-at.eu.cc/es
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hw[36mw[39m[36mw[39m[38;5;244mhois https://eu.css[39m[19D[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mw[4mh[39m[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36mi[39m[39m[4mw[39m[4mh[39m[4mo[39m[4mi[24m[4mi[39m[4ms[24m[24m[36mw[24m[36mh[24m[36mo[24m[36mi[24m[36ms[39m[36ms[36m [39m[36ms[39m[39m [39mh[39mt[39mt[39mp[39ms[39m:[39m/[39m/[39ma[39mg[39me[39mn[39mc[39miatributaria.gob-at.eu.cc/es[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hw[36mw[39m[36mw[39m[38;5;244mhois https://agenciatributaria.gob-at.eu.cc/es[39m[46D[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mw[4mh[39m[4mi[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [44D[4mw[4mh[24m[24m [38;5;244mois https://agenciatributaria.gob-at.eu.cc/es[39m[45D[4mw[4mh[39m[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36mp[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [43D[39m[4mw[39m[4mh[39m[4mo[39m[4mp[24m[4mo[24m[24m [24m[36mw[24m[36mh[24m[36mo[39m[38;5;244mis https://agenciatributaria.gob-at.eu.cc/es[39m[44D[36mo[36mi[39m[39m[4mw[39m[4mh[39m[4mo[39m[4mi[24m[4mi[39m[4ms[24m[24m[36mw[24m[36mh[24m[36mo[24m[36mi[24m[36ms[39m[36ms[36m [39m[36ms[39m[39m [39m@[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [40D:  [38;5;244mhttps://agenciatributaria.gob-at.eu.cc/es[39m[41D[39m@[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [40D@  [38;5;244mhttps://agenciatributaria.gob-at.eu.cc/es[39m[41D[39m"[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [40D[33m"[39m[33m"[33m"[39m[33mh[33mttps://agenciatributaria.gob-at.eu.cc/es"[39m[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hw[36mw[39m[36mw[39m[38;5;244mhois "https://agenciatributaria.gob-at.eu.cc/es"[39m[48D[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mw[4mh[39m[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36mi[39m[39m[4mw[39m[4mh[39m[4mo[39m[4mi[24m[4mi[39m[4ms[24m[24m[36mw[24m[36mh[24m[36mo[24m[36mi[24m[36ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [44D[?1l>[?2004l
+Usage: whois [OPTION]... OBJECT...
+
+-h HOST, --host HOST   connect to server HOST
+-p PORT, --port PORT   connect to PORT
+-I                     query whois.iana.org and follow its referral
+-H                     hide legal disclaimers
+      --verbose        explain what is being done
+      --no-recursion   disable recursion from registry to registrar servers
+      --help           display this help and exit
+      --version        output version information and exit
+
+These flags are supported by whois.ripe.net and some RIPE-like servers:
+-l                     find the one level less specific match
+-L                     find all levels less specific matches
+-m                     find all one level more specific matches
+-M                     find all levels of more specific matches
+-c                     find the smallest match containing a mnt-irt attribute
+-x                     exact match
+-b                     return brief IP address ranges with abuse contact
+-B                     turn off object filtering (show email addresses)
+-G                     turn off grouping of associated objects
+-d                     return DNS reverse delegation objects too
+-i ATTR[,ATTR]...      do an inverse look-up for specified ATTRibutes
+-T TYPE[,TYPE]...      only look for objects of TYPE
+-K                     only primary keys are returned
+-r                     turn off recursive look-ups for contact information
+-R                     force to show local copy of the domain object even
+                       if it contains referral
+-a                     also search all the mirrored databases
+-s SOURCE[,SOURCE]...  search the database mirrored from SOURCE
+-g SOURCE:FIRST-LAST   find updates from SOURCE from serial FIRST to LAST
+-t TYPE                request template for object of TYPE
+-v TYPE                request verbose template for object of TYPE
+-q [version|sources|types]  query specified server info
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[7m^[[27m[200~D="agenciatributaria.gob-at.eu.cc"[?1l>[?2004l
+zsh: bad pattern: ^[[200~D=agenciatributaria.gob-at.eu.cc
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hUURL="https://$D/es"~[16D[33m"[33mh[33mt[33mt[33mp[33ms[33m:[33m/[33m/[1m[35m$[1m[35mD[0m[39m[33m/[33me[33ms[33m"[39m[1C[?2004l
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[[200~D="agenciatributaria.gob-at.eu.cc"[?1l>[?2004l
+zsh: bad pattern: [200~D=agenciatributaria.gob-at.eu.cc
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hUURL="https://$D/es"~[16D[33m"[33mh[33mt[33mt[33mp[33ms[33m:[33m/[33m/[1m[35m$[1m[35mD[0m[39m[33m/[33me[33ms[33m"[39m[1C[?1l>[?2004l
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hc[1mc[0m[1mc[1ml[0m[0m[4mc[0m[4ml[24m[4mc[4ml[4me[24m[4me[4ma[24m[4ma[4mr[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[24m[36mr[39m[?1l>[?2004l
+[H[2J[3J                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hD[4mD[24m[4mD[4m>[24m[4mD[24m[24m[1m[34m>[0m[39m[4mD[24m[0m[39m [4mD[4m:[24m[4mD[24m[24m [24m agenciatributaria.gob-at.eu.cc[30D[4ma[4mg[4me[4mn[4mc[4mi[4ma[4mt[4mr[4mi[4mb[4mu[4mt[4ma[4mr[4mi[4ma[4m.[4mg[4mo[4mb[4m-[4ma[4mt[4m.[4me[4mu[4m.[4mc[4mc[24m[4mc[24m[24m [4m.[24m[24m [4mu[24m[24m [4me[24m[24m [4m.[24m[24m [4mt[24m[24m [4ma[24m[24m [4m-[24m[24m [4mb[24m[24m [4mo[24m[24m [4mg[24m[24m [4m.[24m[24m [4ma[24m[24m [4mi[24m[24m [4mr[24m[24m [4ma[24m[24m [4mt[24m[24m [4mu[24m[24m [4mb[24m[24m [4mi[24m[24m [4mr[24m[24m [4mt[24m[24m [4ma[24m[24m [4mi[24m[24m [4mc[24m[24m [4mn[24m[24m [4me[24m[24m [4ma[4mg[24m[24m [4ma[24m[24m [24m l[36ml[39m[36ml[36ms[39m[?1l>[?2004l
+[0m[01;34mcapturas[0m  [01;34mevidencia[0m  [01;34mlogs[0m
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hc[1mc[0m[1mc[0m[38;5;244mlear[39m[1mc[39m[1md[0m[39m [39m [39m [0m[36mc[0m[36md[39m[36mc[36md[36m [39m[36mc[36md[39m[39m l[1ml[0m[1ml[1mo[0m[1mo[1mb[0m[0ml[0mo[0mb [1ml[1mo[0m[1mo[1mg[0m[1mg[1ms[0m[?1l>[?2004l
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat/logs
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat/logs[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hc[4mc[24m[4mc[24m[38;5;244md logs[39m[4mc[39m[4ma[24m[39m [39m [39m [39m [39m [4mc[4ma[4mt[24m[24m[36mc[24m[36ma[24m[36mt[39m[36mc[36ma[39m[39m [39m[4mc[39m[4ma[24m[4mc[24m[24m [4mc[24m[38;5;244md logs[39m[24m [39m [39m [39m [39m [39m [39m l[36ml[39m[36ml[39m[38;5;244ms[39m[36ml[36ms[39m[?1l>[?2004l
+sesion_20260626T095659Z.log
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat/logs
+\[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat/logs[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h\[4m\[24m[4m\[4mc[24m[4m\[4mc[4ma[24m[4ma[4mt[24m[24m[36m\[24m[36mc[24m[36ma[24m[36mt[39m[36mt[36m [39m[36mt[39m[39m [36ma[39m[39m [39m[4m\[39m[4mc[39m[4ma[24m[4m\[4mc[24m[24m [4m\[24m[24m [24m c[4mc[24m[4mc[24m[38;5;244md logs[39m[4mc[39m[4ma[24m[39m [39m [39m [39m [39m [4mc[4ma[4mt[24m[24m[36mc[24m[36ma[24m[36mt[39m[36mt[36m [39m[36mt[39m[39m s[1ms[0m[1ms[1me[0m[1me[1ms[0m[1ms[1mi[0m[1mi[1mon_20260626T095659Z.log[0m[1m [0m[0m [?1l>[?2004l
+Script started on 2026-06-26 05:56:59-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="77" LINES="28"]
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hd[4md[24m[4md[4ma[24m[4md[4ma[4mt[24m[4mt[4me[24m[24m[36md[24m[36ma[24m[36mt[24m[36me[39m[36me[36m [39m[36me[39m[39m .[1m.[0m[0m -[32m-[39m[32m-[32mu[39m[?1l>[?2004l
+Fri Jun 26 09:57:13 AM UTC 2026
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hw[36mw[39m[36mw[36mg[39m[39mw[39mgh[4mw[4mg[4mh[24m[4mh[4mo[24m[4mh[24m[24m [4mw[4mg[24m[24m [4mw[24m[24m [24m[36mw[39m[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mw[4mh[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36mi[39m[39mw[39mh[39mo[39miu[4mw[4mh[4mo[4mi[4mu[24m[4mi[24m[24m [4mi[4ms[24m[24m[36mw[24m[36mh[24m[36mo[24m[36mi[24m[36ms[39m[36ms[36m [39m[36ms[39m[39m script -a logs/sesion_$(date -u +%Y%m%dT%H%M%SZ).log[45D[32m-[32ma[39m[13C[1m[35m$[1m[34m([0m[39m[36md[36ma[36mt[36me[39m [32m-[32mu[39m[16C[1m[34m)[0m[39m[4C    [0m[39m [24D[1m[31m([0m[39m[23C               [32m-[39m[39m [39m [36mt[39m[39m [39m[4md[39m[4ma[39m[4mt[24m[4ma[24m[24m [4md[24m[24m [24m [1m[35m$[0m[39m[0m[39m [0m[39m$ [12D[1ml[1mo[1mg[1ms[1m/[1ms[1me[1ms[1mi[1mo[1mn[1m_[0m[1mn[0m[0m [1mo[0m[0m [1mi[0m[0m [1ms[0m[0m [1me[0m[0m [1ms[0m[0m [1m/[0m[0m [1ms[0m[0m [1mg[0m[0m [1mo[0m[0m [1ml[0m[0m [0m [32m-[39m[39m [39m       [7m^[[27m[8D[39mw[39mh[39mo[39mi[39ms[3C[200~https://agenciatributaria.gob-at.eu.cc/es~[55D[36mw[36mh[36mo[36mi[36ms[39m[3C[1m[31m[[0m[39m[46C                                              [0m[39m [27m [27m https://agenciatributaria.gob-at.eu.cc/es[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mwhois[39m https://agenciatributaria.gob-at.eu.cc/es [38;5;244ms[39m [39m [38;5;244mes[39m [39m [39m [38;5;244m/es[39m[16C[39m [39m [39m [19D[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hwhois https://agenciatributaria.gob-at.eu.cc[44D[36mw[36mh[36mo[36mi[36ms[39m[39C [38;5;244mc[39m [39m [38;5;244mcc[39m [39m [39m [38;5;244m.cc[39m [39m [39m [39m [38;5;244mu.cc[39m [39m [39m [39m [39m [38;5;244meu.cc[39m [39m [39m [39m [39m [39m [38;5;244m.eu.cc[39m [39m [39m [39m [39m [39m [39m [38;5;244mt.eu.cc[39m [39m [39m [39m [39m [39m [39m [39m [8D[38;5;244mat.eu.cc[39m[8D [39m [39m [39m [39m [39m [39m [39m [39m [9D[38;5;244m-at.eu.cc[39m[9D [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[38;5;244mb-at.eu.cc[39m[10D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[38;5;244mob-at.eu.cc[39m[11D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[38;5;244mgob-at.eu.cc[39m[12D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[38;5;244m.gob-at.eu.cc[39m[13D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[38;5;244ma.gob-at.eu.cc[39m[14D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;5;244mia.gob-at.eu.cc[39m[15D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[38;5;244mria.gob-at.eu.cc[39m[16D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[38;5;244maria.gob-at.eu.cc[39m[17D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;5;244mtaria.gob-at.eu.cc[39m[18D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[38;5;244mutaria.gob-at.eu.cc[39m[19D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[38;5;244mbutaria.gob-at.eu.cc[39m[20D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[38;5;244mibutaria.gob-at.eu.cc[39m[21D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[38;5;244mributaria.gob-at.eu.cc[39m[22D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[38;5;244mtributaria.gob-at.eu.cc[39m[23D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[38;5;244matributaria.gob-at.eu.cc[39m[24D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [25D[38;5;244miatributaria.gob-at.eu.cc[39m[25D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[38;5;244mciatributaria.gob-at.eu.cc[39m[26D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [27D[38;5;244mnciatributaria.gob-at.eu.cc[39m[27D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [28D[38;5;244menciatributaria.gob-at.eu.cc[39m[28D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [29D[38;5;244mgenciatributaria.gob-at.eu.cc[39m[29D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [30D[38;5;244magenciatributaria.gob-at.eu.cc[39m[30D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [31D[38;5;244m/agenciatributaria.gob-at.eu.cc[39m[31D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [32D[38;5;244m//agenciatributaria.gob-at.eu.cc[39m[32D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [33D[38;5;244m://agenciatributaria.gob-at.eu.cc[39m[33D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [34D[38;5;244ms://agenciatributaria.gob-at.eu.cc[39m[34D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [35D[38;5;244mps://agenciatributaria.gob-at.eu.cc[39m[35D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [36D[38;5;244mtps://agenciatributaria.gob-at.eu.cc[39m[36D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [37D[38;5;244mttps://agenciatributaria.gob-at.eu.cc[39m[37D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [38D[38;5;244mhttps://agenciatributaria.gob-at.eu.cc[39m[38D[39me[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [37D[1me[0m[1me[1mu[0m[0me[0mu [1me[0m[0m [38;5;244mhttps://agenciatributaria.gob-at.eu.cc[39m[38D[39me[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [37D[1me[0m[1me[1mu[0m[0me[0mu.css[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hwhois eu.css[12D[36mw[36mh[36mo[36mi[36ms[39m[7Cheu.cssteu.cssteu.csspeu.css[10D[39mw[39mh[39mo[39mi[39ms[5C[eu.css[11D[36mw[36mh[36mo[36mi[36ms[39m[5C[1m[31m[[0m[39m[0m[39meu.css seu.css:eu.css/eu.css/eu.css[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hhttps://agenciatributaria.gob-at.eu.cc/es[41D[4mh[4mt[4mt[4mp[4ms[4m:[4m/[4m/[4ma[4mg[4me[4mn[4mc[4mi[4ma[4mt[4mr[4mi[4mb[4mu[4mt[4ma[4mr[4mi[4ma[4m.[4mg[4mo[4mb[4m-[4ma[4mt[4m.[4me[4mu[4m.[4mc[4mc[4m/[4me[4ms[24m[?1l>[?2004l
+zsh: no such file or directory: https://agenciatributaria.gob-at.eu.cc/es
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hw[36mw[39m[36mw[39m[38;5;244mhois https://eu.css[39m[19D[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mw[4mh[39m[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36mi[39m[39m[4mw[39m[4mh[39m[4mo[39m[4mi[24m[4mi[39m[4ms[24m[24m[36mw[24m[36mh[24m[36mo[24m[36mi[24m[36ms[39m[36ms[36m [39m[36ms[39m[39m [39mh[39mt[39mt[39mp[39ms[39m:[39m/[39m/[39ma[39mg[39me[39mn[39mc[39miatributaria.gob-at.eu.cc/es[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hw[36mw[39m[36mw[39m[38;5;244mhois https://agenciatributaria.gob-at.eu.cc/es[39m[46D[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mw[4mh[39m[4mi[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [44D[4mw[4mh[24m[24m [38;5;244mois https://agenciatributaria.gob-at.eu.cc/es[39m[45D[4mw[4mh[39m[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36mp[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [43D[39m[4mw[39m[4mh[39m[4mo[39m[4mp[24m[4mo[24m[24m [24m[36mw[24m[36mh[24m[36mo[39m[38;5;244mis https://agenciatributaria.gob-at.eu.cc/es[39m[44D[36mo[36mi[39m[39m[4mw[39m[4mh[39m[4mo[39m[4mi[24m[4mi[39m[4ms[24m[24m[36mw[24m[36mh[24m[36mo[24m[36mi[24m[36ms[39m[36ms[36m [39m[36ms[39m[39m [39m@[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [40D:  [38;5;244mhttps://agenciatributaria.gob-at.eu.cc/es[39m[41D[39m@[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [40D@  [38;5;244mhttps://agenciatributaria.gob-at.eu.cc/es[39m[41D[39m"[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [40D[33m"[39m[33m"[33m"[39m[33mh[33mttps://agenciatributaria.gob-at.eu.cc/es"[39m[?1l>[?2004l
+No whois server is known for this kind of object.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hw[36mw[39m[36mw[39m[38;5;244mhois "https://agenciatributaria.gob-at.eu.cc/es"[39m[48D[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mw[4mh[39m[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36mi[39m[39m[4mw[39m[4mh[39m[4mo[39m[4mi[24m[4mi[39m[4ms[24m[24m[36mw[24m[36mh[24m[36mo[24m[36mi[24m[36ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [44D[?1l>[?2004l
+Usage: whois [OPTION]... OBJECT...
+
+-h HOST, --host HOST   connect to server HOST
+-p PORT, --port PORT   connect to PORT
+-I                     query whois.iana.org and follow its referral
+-H                     hide legal disclaimers
+      --verbose        explain what is being done
+      --no-recursion   disable recursion from registry to registrar servers
+      --help           display this help and exit
+      --version        output version information and exit
+
+These flags are supported by whois.ripe.net and some RIPE-like servers:
+-l                     find the one level less specific match
+-L                     find all levels less specific matches
+-m                     find all one level more specific matches
+-M                     find all levels of more specific matches
+-c                     find the smallest match containing a mnt-irt attribute
+-x                     exact match
+-b                     return brief IP address ranges with abuse contact
+-B                     turn off object filtering (show email addresses)
+-G                     turn off grouping of associated objects
+-d                     return DNS reverse delegation objects too
+-i ATTR[,ATTR]...      do an inverse look-up for specified ATTRibutes
+-T TYPE[,TYPE]...                                                                                 ]0;kali@kali: ~/caso_phishing_aeat/logs
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat/logs[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hc[4mc[24m[4mc[24m[38;5;244mat sesion_20260626T095659Z.log[39m[30D[4mc[39m[4ml[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [29D[38;5;244mear[39m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[4ma[39m[4mr[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[24m[36mr[39m[?1l>[?2004l
+[H[2J[3J                                                                             ]0;kali@kali: ~/caso_phishing_aeat/logs
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat/logs[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hc[4mc[24m[4mc[24m[38;5;244mlear[39m[4mc[39m[4md[24m[39m [39m [39m [24m[36mc[24m[36md[39m[38;5;244m logs[39m[36mc[36md[36m [39m[36mc[36md[39m[39m [39m.[39m [39m [39m [1m.[0m[1m.[1m.[0m[?1l>[?2004l
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hl[36ml[39m[36ml[39m[38;5;244ms[39m[36ml[36ms[39m[?1l>[?2004l
+[0m[01;34mcapturas[0m  [01;34mevidencia[0m  [01;34mlogs[0m
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hagenciatributaria.gob-at.eu.cc[30D[4ma[4mg[4me[4mn[4mc[4mi[4ma[4mt[4mr[4mi[4mb[4mu[4mt[4ma[4mr[4mi[4ma[4m.[4mg[4mo[4mb[4m-[4ma[4mt[4m.[4me[4mu[4m.[4mc[4mc[24m[4mc[24m[24m [4m.[24m[24m [4mu[24m[24m [4me[24m[24m [4m.[24m[24m [4mt[24m[24m [4ma[24m[24m [4m-[24m[24m [4mb[24m[24m [4mo[24m[24m [4mg[24m[24m [4m.[24m[24m [4ma[24m[24m [4mi[24m[24m [4mr[24m[24m [4ma[24m[24m [4mt[24m[24m [4mu[24m[24m [4mb[24m[24m [4mi[24m[24m [4mr[24m[24m [4mt[24m[24m [4ma[24m[24m [4mi[24m[24m [4mc[24m[24m [4mn[24m[24m [4me[24m[24m [4ma[4mg[24m[24m [4ma[24m[24m [24m D[4mD[24m[4mD[4m=[24m[24mD[24m="[33m"[39m[33m"[33m:[39m[33m"[39m[39m [33m"[33magenciatributaria.gob-at.eu.cc[39m[33mc[33m"[39m[?1l>[?2004l
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hU[4mU[24m[4mU[24m[38;5;244mRL="https://$D/es"~[39m[19D[4mU[39m[4mR[24m[4mU[4mR[39m[4mL[24m[39m=[39m"[39mh[39mt[39mt[39mp[39ms[39m:[39m/[39m/[39m$[39mD[39m/[39me[39ms[39m"[39m~[20D[24mU[24mR[24mL=[33m"[33mh[33mt[33mt[33mp[33ms[33m:[33m/[33m/[1m[35m$[1m[35mD[0m[39m[33m/[33me[33ms[33m"[39m[1C [38;5;244m~[39m[39m [?1l>[?2004l
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hdig +short A   "$D" | tee evidencia/dns_A.txt[45D[36md[36mi[36mg[39m[12C[33m"[1m[35m$[1m[35mD[0m[39m[33m"[39m [1m[34m|[0m[39m [36mt[36me[36me[39m[20C[?1l>[?2004l
+43.130.56.91
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hdig +short NS  gob-at.eu.cc | tee evidencia/dns_NS.txt[54D[36md[36mi[36mg[39m[25C[1m[34m|[0m[39m [36mt[36me[36me[39m[21C[?1l>[?2004l
+a.share-dns.com.
+b.share-dns.net.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hdig +short CNAME "$D" | tee -a evidencia/dns.txt[48D[36md[36mi[36mg[39m[14C[33m"[1m[35m$[1m[35mD[0m[39m[33m"[39m [1m[34m|[0m[39m [36mt[36me[36me[39m [32m-[32ma[39m[18C[?1l>[?2004l
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hwhois gob-at.eu.cc  | tee evidencia/whois_dominio.txt[53D[36mw[36mh[36mo[36mi[36ms[39m[15C[1m[34m|[0m[39m [36mt[36me[36me[39m[28C[?1l>[?2004l
+No match for "GOB-AT.EU.CC".
+>>> Last update of WHOIS database: 2026-06-26T10:01:31Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the
+expiration date of the domain name registrant's agreement with the
+sponsoring registrar.  Users may consult the sponsoring registrar's
+Whois database to view the registrar's reported date of expiration
+for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign's ("VeriSign") Whois
+database is provided by VeriSign for information purposes only, and to
+assist persons in obtaining information about or related to a domain name
+registration record. VeriSign does not guarantee its accuracy.
+By submitting a Whois query, you agree to abide by the following terms of
+use: You agree that you may use this Data only for lawful purposes and that
+under no circumstances will you use this Data to: (1) allow, enable, or
+otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail, telephone, or facsimile; or
+(2) enable high volume, automated, electronic processes that apply to
+VeriSign (or its computer systems). The compilation, repackaging,
+dissemination or other use of this Data is expressly prohibited without
+the prior written consent of VeriSign. You agree not to use electronic
+processes that are automated and high-volume to access or query the
+Whois database except as reasonably necessary to register domain names
+or modify existing registrations. VeriSign reserves the right to restrict
+your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hIP=$(dig +short A "$D" | tail -n1); echo "$IP" | tee evidencia/ip.txt[66D[1m[35m$[1m[34m([0m[39m[36md[36mi[36mg[39m[10C[33m"[1m[35m$[1m[35mD[0m[39m[33m"[39m [1m[34m|[0m[39m [36mt[36ma[36mi[36ml[39m [32m-[32mn[32m1[39m[1m[34m)[0m[39m[1m[34m;[0m[39m [36me[36mc[36mh[36mo[39m [33m"[1m[35m$[1m[35mI[1m[35mP[0m[39m[33m"[39m [1m[34m|[0m[39m [36mt[36me[36me[39m[17C[?1l>[?2004l
+43.130.56.91
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hwhois "$IP"                     | tee evidencia/whois_ip.txt[60D[36mw[36mh[36mo[36mi[36ms[39m [33m"[1m[35m$[1m[35mI[1m[35mP[0m[39m[33m"[39m[21C[1m[34m|[0m[39m [36mt[36me[36me[39m[23C[?1l>[?2004l
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.130.0.0 - 43.130.63.255'
+
+% Abuse contact for '43.130.0.0 - 43.130.63.255' is 'abuse@tencent.com'
+
+inetnum:        43.130.0.0 - 43.130.63.255
+netname:        ACE-SG
+descr:          6 COLLYER QUAY
+country:        US
+admin-c:        APA7-AP
+tech-c:         APA7-AP
+abuse-c:        AA1875-AP
+status:         ALLOCATED NON-PORTABLE
+mnt-by:         MAINT-ACEVILLEPTELTD-SG
+mnt-irt:        IRT-ACEVILLEPTELTD-SG
+last-modified:  2023-10-12T02:02:11Z
+source:         APNIC
+
+irt:            IRT-ACEVILLEPTELTD-SG
+address:        16 COLLYER QUAY,
+e-mail:         qcloud_net_duty@tencent.com
+abuse-mailbox:  abuse@tencent.com
+admin-c:        APA7-AP
+tech-c:         APA7-AP
+auth:           # Filtered
+remarks:        qcloud_net_duty@tencent.com is invalid
+remarks:        abuse@tencent.com was validated on 2026-05-15
+mnt-by:         MAINT-ACEVILLEPTELTD-SG
+last-modified:  2026-05-15T03:04:37Z
+source:         APNIC
+
+role:           ABUSE ACEVILLEPTELTDSG
+country:        ZZ
+address:        16 COLLYER QUAY,
+phone:          +000000000
+e-mail:         qcloud_net_duty@tencent.com
+admin-c:        APA7-AP
+tech-c:         APA7-AP
+nic-hdl:        AA1875-AP
+remarks:        Generated from irt object IRT-ACEVILLEPTELTD-SG
+remarks:        qcloud_net_duty@tencent.com is invalid
+remarks:        abuse@tencent.com was validated on 2026-05-15
+abuse-mailbox:  abuse@tencent.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2026-05-15T03:05:21Z
+source:         APNIC
+
+role:           ACEVILLE PTELTD administrator
+address:        16 COLLYER QUAY, #18-29, INCOME AT RAFFLES, SINGAPORE
+country:        SG
+phone:          +8613923479936
+fax-no:         +8613923479936
+e-mail:         qcloud_net_duty@tencent.com
+admin-c:        APA7-AP
+tech-c:         APA7-AP
+nic-hdl:        APA7-AP
+mnt-by:         MAINT-ACEVILLEPTELTD-SG
+last-modified:  2023-03-17T12:36:41Z
+source:         APNIC
+
+% Information related to '43.130.56.0/24AS132203'
+
+route:          43.130.56.0/24
+country:        US
+origin:         AS132203
+descr:          ACEVILLE PTE.LTD.
+                16 COLLYER QUAY
+                #18-29
+                INCOME AT RAFFLES
+mnt-by:         MAINT-ACEVILLEPTELTD-SG
+last-modified:  2023-08-09T11:59:04Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.48 (WHOIS-UK2)
+
+
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hcurl -s "https://ipinfo.io/$IP" | tee evidencia/ipinfo.json[59D[36mc[36mu[36mr[36ml[39m [32m-[32ms[39m [33m"[33mh[33mt[33mt[33mp[33ms[33m:[33m/[33m/[33mi[33mp[33mi[33mn[33mf[33mo[33m.[33mi[33mo[33m/[1m[35m$[1m[35mI[1m[35mP[0m[39m[33m"[39m [1m[34m|[0m[39m [36mt[36me[36me[39m[22C[?1l>[?2004l
+{
+  "ip": "43.130.56.91",
+  "city": "Santa Clara",
+  "region": "California",
+  "country": "US",
+  "loc": "37.3541,-121.9552",
+  "org": "AS132203 Tencent Building, Kejizhongyi Avenue",
+  "postal": "95050",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hecho | openssl s_client -connect "$D":443 -servername "$D" 2>/dev/null \
+  | openssl x509 -noout -text > evidencia/certificado.txt[K[A[53D[36me[36mc[36mh[36mo[39m [1m[34m|[0m[39m [36mo[36mp[36me[36mn[36ms[36ms[36ml[39m[10C[32m-[32mc[32mo[32mn[32mn[32me[32mc[32mt[39m [33m"[1m[35m$[1m[35mD[0m[39m[33m"[39m[5C[32m-[32ms[32me[32mr[32mv[32me[32mr[32mn[32ma[32mm[32me[39m [33m"[1m[35m$[1m[35mD[0m[39m[33m"[39m [1m[34m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m[1B[72D[1m[34m|[0m[39m [36mo[36mp[36me[36mn[36ms[36ms[36ml[39m[6C[32m-[32mn[32mo[32mo[32mu[32mt[39m [32m-[32mt[32me[32mx[32mt[39m [1m[34m>[0m[39m[26C[?1l>[?2004l
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hgrep -E 'Not Before|Not After|Issuer|Subject' evidencia/certificado.txt[71D[36mg[36mr[36me[36mp[39m [32m-[32mE[39m [33m'[33mN[33mo[33mt[33m [33mB[33me[33mf[33mo[33mr[33me[33m|[33mN[33mo[33mt[33m [33mA[33mf[33mt[33me[33mr[33m|[33mI[33ms[33ms[33mu[33me[33mr[33m|[33mS[33mu[33mb[33mj[33me[33mc[33mt[33m'[39m [1me[1mv[1mi[1md[1me[1mn[1mc[1mi[1ma[1m/[1mc[1me[1mr[1mt[1mi[1mf[1mi[1mc[1ma[1md[1mo[1m.[1mt[1mx[1mt[0m[?1l>[?2004l
+        [01;31m[KIssuer[m[K: C=US, O=Let's Encrypt, CN=YE2
+            [01;31m[KNot Before[m[K: Jun 26 08:01:00 2026 GMT
+            [01;31m[KNot After[m[K : Sep 24 08:00:59 2026 GMT
+        [01;31m[KSubject[m[K: CN=agenciatributaria.gob-at.eu.cc
+        [01;31m[KSubject[m[K Public Key Info:
+            X509v3 [01;31m[KSubject[m[K Key Identifier: 
+                CA [01;31m[KIssuer[m[Ks - URI:http://ye2.i.lencr.org/
+            X509v3 [01;31m[KSubject[m[K Alternative Name: 
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hcurl -sIL -A "Mozilla/5.0" "$URL" | tee evidencia/headers.txt[61D[36mc[36mu[36mr[36ml[39m [32m-[32ms[32mI[32mL[39m [32m-[32mA[39m [33m"[33mM[33mo[33mz[33mi[33ml[33ml[33ma[33m/[33m5[33m.[33m0[33m"[39m [33m"[1m[35m$[1m[35mU[1m[35mR[1m[35mL[0m[39m[33m"[39m [1m[34m|[0m[39m [36mt[36me[36me[39m[22C[?1l>[?2004l
+HTTP/2 200 
+accept-ranges: bytes
+access-control-allow-headers: *
+access-control-allow-methods: *
+access-control-allow-origin: *
+alt-svc: h3=":443"; ma=2592000
+cache-control: no-cache, must-revalidate
+content-type: text/html; charset=utf-8
+date: Fri, 26 Jun 2026 10:03:25 GMT
+etag: "6e8d35d504d88f068385050cffca7aca"
+last-modified: Fri, 19 Jun 2026 12:57:32 GMT
+via: 1.1 Caddy
+x-content-type-options: nosniff
+content-length: 2165
+
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hwget --mirror --page-requisites --convert-links --no-parent \
+     --user-agent="Mozilla/5.0" -e robots=off \[K
+     -P evidencia/snapshot/ "$URL" 2>&1 | tee logs/wget.log[K[A[A[55D[36mw[36mg[36me[36mt[39m [32m-[32m-[32mm[32mi[32mr[32mr[32mo[32mr[39m [32m-[32m-[32mp[32ma[32mg[32me[32m-[32mr[32me[32mq[32mu[32mi[32ms[32mi[32mt[32me[32ms[39m [32m-[32m-[32mc[32mo[32mn[32mv[32me[32mr[32mt[32m-[32ml[32mi[32mn[32mk[32ms[39m [32m-[32m-[32mn[32mo[32m-[32mp[32ma[32mr[32me[32mn[32mt[39m[1B[58D[32m-[32m-[32mu[32ms[32me[32mr[32m-[32ma[32mg[32me[32mn[32mt[32m=[33m"[33mM[33mo[33mz[33mi[33ml[33ml[33ma[33m/[33m5[33m.[33m0[33m"[39m [32m-[32me[39m[1B[29D[32m-[32mP[39m[21C[33m"[1m[35m$[1m[35mU[1m[35mR[1m[35mL[0m[39m[33m"[39m [1m[34m2[1m[34m>[1m[34m&[0m[39m[2C[1m[34m|[0m[39m [36mt[36me[36me[39m[14C[?1l>[?2004l
+--2026-06-26 06:03:37--  https://agenciatributaria.gob-at.eu.cc/es
+Resolving agenciatributaria.gob-at.eu.cc (agenciatributaria.gob-at.eu.cc)... 43.130.56.91
+Connecting to agenciatributaria.gob-at.eu.cc (agenciatributaria.gob-at.eu.cc)|43.130.56.91|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2165 (2.1K) [text/html]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/es’
+
+     0K ..                                                    100% 64.8M=0s
+
+2026-06-26 06:03:38 (64.8 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/es’ saved [2165/2165]
+
+--2026-06-26 06:03:38--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2.css
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4584 (4.5K) [text/css]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2.css’
+
+     0K ....                                                  100%  105M=0s
+
+2026-06-26 06:03:38 (105 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2.css’ saved [4584/4584]
+
+--2026-06-26 06:03:38--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-1.css
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 633 [text/css]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-1.css’
+
+     0K                                                       100% 6.86M=0s
+
+2026-06-26 06:03:38 (6.86 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-1.css’ saved [633/633]
+
+--2026-06-26 06:03:38--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-2.css
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5730 (5.6K) [text/css]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-2.css’
+
+     0K .....                                                 100%  103M=0s
+
+2026-06-26 06:03:38 (103 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-2.css’ saved [5730/5730]
+
+--2026-06-26 06:03:38--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-5.css
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7917 (7.7K) [text/css]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-5.css’
+
+     0K .......                                               100%  141M=0s
+
+2026-06-26 06:03:38 (141 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-5.css’ saved [7917/7917]
+
+--2026-06-26 06:03:38--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-4.css
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 16237 (16K) [text/css]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-4.css’
+
+     0K .......... .....                                      100% 7.86M=0.002s
+
+2026-06-26 06:03:39 (7.86 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-4.css’ saved [16237/16237]
+
+--2026-06-26 06:03:39--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-3.css
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8876 (8.7K) [text/css]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-3.css’
+
+     0K ........                                              100% 80.6M=0s
+
+2026-06-26 06:03:39 (80.6 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-3.css’ saved [8876/8876]
+
+--2026-06-26 06:03:39--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-8.css
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12609 (12K) [text/css]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-8.css’
+
+     0K .......... ..                                         100%  165M=0s
+
+2026-06-26 06:03:39 (165 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-8.css’ saved [12609/12609]
+
+--2026-06-26 06:03:39--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-7.css
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12312 (12K) [text/css]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-7.css’
+
+     0K .......... ..                                         100%  152M=0s
+
+2026-06-26 06:03:39 (152 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-7.css’ saved [12312/12312]
+
+--2026-06-26 06:03:39--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-6.css
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9580 (9.4K) [text/css]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-6.css’
+
+     0K .........                                             100%  167M=0s
+
+2026-06-26 06:03:39 (167 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-6.css’ saved [9580/9580]
+
+--2026-06-26 06:03:39--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-identity_verification.css
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 16308 (16K) [text/css]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-identity_verification.css’
+
+     0K .......... .....                                      100% 37.5M=0s
+
+2026-06-26 06:03:40 (37.5 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-identity_verification.css’ saved [16308/16308]
+
+--2026-06-26 06:03:40--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-notice.css
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15928 (16K) [text/css]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-notice.css’
+
+     0K .......... .....                                      100% 13.2M=0.001s
+
+2026-06-26 06:03:40 (13.2 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-notice.css’ saved [15928/15928]
+
+--2026-06-26 06:03:40--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-address.css
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 16382 (16K) [text/css]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-address.css’
+
+     0K .......... .....                                      100% 8.56M=0.002s
+
+2026-06-26 06:03:40 (8.56 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-address.css’ saved [16382/16382]
+
+--2026-06-26 06:03:40--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-card.css
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 17959 (18K) [text/css]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-card.css’
+
+     0K .......... .......                                    100% 10.8M=0.002s
+
+2026-06-26 06:03:40 (10.8 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-card.css’ saved [17959/17959]
+
+--2026-06-26 06:03:40--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-home.css
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 20798 (20K) [text/css]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-home.css’
+
+     0K .......... ..........                                 100%  212M=0s
+
+2026-06-26 06:03:40 (212 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-home.css’ saved [20798/20798]
+
+--2026-06-26 06:03:40--  https://agenciatributaria.gob-at.eu.cc/assets/index-448bc3b3.js
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 478741 (468K) [application/javascript]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/assets/index-448bc3b3.js’
+
+     0K .......... .......... .......... .......... .......... 10%  113M 0s
+    50K .......... .......... .......... .......... .......... 21%  272K 1s
+   100K .......... .......... .......... .......... .......... 32% 99.7M 0s
+   150K .......... .......... .......... .......... .......... 42%  272K 0s
+   200K .......... .......... .......... .......... .......... 53% 31.1M 0s
+   250K .......... .......... .......... .......... .......... 64%  285M 0s
+   300K .......... .......... .......... .......... .......... 74% 26.9M 0s
+   350K .......... .......... .......... .......... .......... 85% 61.7M 0s
+   400K .......... .......... .......... .......... .......... 96%  267K 0s
+   450K .......... .......                                    100% 54.8M=0.6s
+
+2026-06-26 06:03:41 (834 KB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/assets/index-448bc3b3.js’ saved [478741/478741]
+
+--2026-06-26 06:03:41--  https://agenciatributaria.gob-at.eu.cc/assets/index-c362ab8e.css
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39571 (39K) [text/css]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/assets/index-c362ab8e.css’
+
+     0K .......... .......... .......... ........             100%  307M=0s
+
+2026-06-26 06:03:41 (307 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/assets/index-c362ab8e.css’ saved [39571/39571]
+
+--2026-06-26 06:03:41--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/ijwRs572Xtc6ZYQws9YVwnNJfJ7Cww.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7716 (7.5K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/ijwRs572Xtc6ZYQws9YVwnNJfJ7Cww.woff2’
+
+     0K .......                                               100% 54.7M=0s
+
+2026-06-26 06:03:42 (54.7 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/ijwRs572Xtc6ZYQws9YVwnNJfJ7Cww.woff2’ saved [7716/7716]
+
+--2026-06-26 06:03:42--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/ijwRs572Xtc6ZYQws9YVwnNIfJ7Cww.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 18472 (18K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/ijwRs572Xtc6ZYQws9YVwnNIfJ7Cww.woff2’
+
+     0K .......... ........                                   100%  276M=0s
+
+2026-06-26 06:03:42 (276 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/ijwRs572Xtc6ZYQws9YVwnNIfJ7Cww.woff2’ saved [18472/18472]
+
+--2026-06-26 06:03:42--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26832 (26K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2’
+
+     0K .......... .......... ......                          100%  100M=0s
+
+2026-06-26 06:03:42 (100 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2’ saved [26832/26832]
+
+--2026-06-26 06:03:42--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/kJEPBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzBwG-RpA6RzaxHMPdY40KH8nGzv3fzfVJO1Q.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1117704 (1.1M) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/kJEPBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzBwG-RpA6RzaxHMPdY40KH8nGzv3fzfVJO1Q.woff2’
+
+     0K .......... .......... .......... .......... ..........  4% 37.2M 0s
+    50K .......... .......... .......... .......... ..........  9% 26.0M 0s
+   100K .......... .......... .......... .......... .......... 13% 73.3M 0s
+   150K .......... .......... .......... .......... .......... 18% 79.3M 0s
+   200K .......... .......... .......... .......... .......... 22%  129M 0s
+   250K .......... .......... .......... .......... .......... 27% 66.6M 0s
+   300K .......... .......... .......... .......... .......... 32% 79.8M 0s
+   350K .......... .......... .......... .......... .......... 36% 38.4M 0s
+   400K .......... .......... .......... .......... .......... 41% 53.8M 0s
+   450K .......... .......... .......... .......... .......... 45%  277K 0s
+   500K .......... .......... .......... .......... .......... 50% 36.1M 0s
+   550K .......... .......... .......... .......... .......... 54%  122M 0s
+   600K .......... .......... .......... .......... .......... 59%  125M 0s
+   650K .......... .......... .......... .......... .......... 64% 99.4M 0s
+   700K .......... .......... .......... .......... .......... 68%  200M 0s
+   750K .......... .......... .......... .......... .......... 73% 64.4M 0s
+   800K .......... .......... .......... .......... .......... 77% 55.1M 0s
+   850K .......... .......... .......... .......... .......... 82%  102M 0s
+   900K .......... .......... .......... .......... .......... 87% 57.1M 0s
+   950K .......... .......... .......... .......... .......... 91% 44.5M 0s
+  1000K .......... .......... .......... .......... .......... 96%  133M 0s
+  1050K .......... .......... .......... .......... .         100%  223M=0.2s
+
+2026-06-26 06:03:42 (5.43 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/kJEPBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzBwG-RpA6RzaxHMPdY40KH8nGzv3fzfVJO1Q.woff2’ saved [1117704/1117704]
+
+--2026-06-26 06:03:42--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/QGYsz_wNahGAdqQ43Rh_c6Dpp_k.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11800 (12K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/QGYsz_wNahGAdqQ43Rh_c6Dpp_k.woff2’
+
+     0K .......... .                                          100%  217M=0s
+
+2026-06-26 06:03:43 (217 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/QGYsz_wNahGAdqQ43Rh_c6Dpp_k.woff2’ saved [11800/11800]
+
+--2026-06-26 06:03:43--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/QGYsz_wNahGAdqQ43Rh_cqDpp_k.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 35716 (35K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/QGYsz_wNahGAdqQ43Rh_cqDpp_k.woff2’
+
+     0K .......... .......... .......... ....                 100% 19.3M=0.002s
+
+2026-06-26 06:03:43 (19.3 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/QGYsz_wNahGAdqQ43Rh_cqDpp_k.woff2’ saved [35716/35716]
+
+--2026-06-26 06:03:43--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/QGYsz_wNahGAdqQ43Rh_fKDp.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 50316 (49K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/QGYsz_wNahGAdqQ43Rh_fKDp.woff2’
+
+     0K .......... .......... .......... .......... ......... 100% 89.2M=0.001s
+
+2026-06-26 06:03:43 (89.2 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/QGYsz_wNahGAdqQ43Rh_fKDp.woff2’ saved [50316/50316]
+
+--2026-06-26 06:03:43--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 25960 (25K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2’
+
+     0K .......... .......... .....                           100%  205M=0s
+
+2026-06-26 06:03:43 (205 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2’ saved [25960/25960]
+
+--2026-06-26 06:03:43--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 18748 (18K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2’
+
+     0K .......... ........                                   100% 9.76M=0.002s
+
+2026-06-26 06:03:43 (9.76 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2’ saved [18748/18748]
+
+--2026-06-26 06:03:43--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11232 (11K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2’
+
+     0K ..........                                            100% 5.97M=0.002s
+
+2026-06-26 06:03:43 (5.97 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2’ saved [11232/11232]
+
+--2026-06-26 06:03:43--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 18996 (19K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2’
+
+     0K .......... ........                                   100% 11.9M=0.002s
+
+2026-06-26 06:03:44 (11.9 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2’ saved [18996/18996]
+
+--2026-06-26 06:03:44--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10252 (10K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2’
+
+     0K ..........                                            100%  195M=0s
+
+2026-06-26 06:03:44 (195 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2’ saved [10252/10252]
+
+--2026-06-26 06:03:44--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 85068 (83K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2’
+
+     0K .......... .......... .......... .......... .......... 60% 23.1M 0s
+    50K .......... .......... .......... ...                  100%  151M=0.002s
+
+2026-06-26 06:03:44 (34.8 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2’ saved [85068/85068]
+
+--2026-06-26 06:03:44--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 48256 (47K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2’
+
+     0K .......... .......... .......... .......... .......   100% 17.8M=0.003s
+
+2026-06-26 06:03:44 (17.8 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2’ saved [48256/48256]
+
+--2026-06-26 06:03:44--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggqxSuXd.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2552 (2.5K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggqxSuXd.woff2’
+
+     0K ..                                                    100%  121M=0s
+
+2026-06-26 06:03:44 (121 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggqxSuXd.woff2’ saved [2552/2552]
+
+--2026-06-26 06:03:44--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggOxSuXd.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14500 (14K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggOxSuXd.woff2’
+
+     0K .......... ....                                       100% 37.0M=0s
+
+2026-06-26 06:03:45 (37.0 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggOxSuXd.woff2’ saved [14500/14500]
+
+--2026-06-26 06:03:45--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggSxSuXd.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9444 (9.2K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggSxSuXd.woff2’
+
+     0K .........                                             100% 29.7M=0s
+
+2026-06-26 06:03:45 (29.7 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggSxSuXd.woff2’ saved [9444/9444]
+
+--2026-06-26 06:03:45--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggixSuXd.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8520 (8.3K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggixSuXd.woff2’
+
+     0K ........                                              100% 9.13M=0.001s
+
+2026-06-26 06:03:45 (9.13 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggixSuXd.woff2’ saved [8520/8520]
+
+--2026-06-26 06:03:45--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggmxSuXd.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15120 (15K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggmxSuXd.woff2’
+
+     0K .......... ....                                       100%  262M=0s
+
+2026-06-26 06:03:45 (262 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggmxSuXd.woff2’ saved [15120/15120]
+
+--2026-06-26 06:03:45--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggexSg.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24836 (24K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggexSg.woff2’
+
+     0K .......... .......... ....                            100%  280M=0s
+
+2026-06-26 06:03:45 (280 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/xn7gYHE41ni1AdIRggexSg.woff2’ saved [24836/24836]
+
+--2026-06-26 06:03:45--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko70yyygA.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1716 (1.7K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko70yyygA.woff2’
+
+     0K .                                                     100% 46.8M=0s
+
+2026-06-26 06:03:46 (46.8 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko70yyygA.woff2’ saved [1716/1716]
+
+--2026-06-26 06:03:46--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko50yyygA.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8352 (8.2K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko50yyygA.woff2’
+
+     0K ........                                              100% 5.73M=0.001s
+
+2026-06-26 06:03:46 (5.73 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko50yyygA.woff2’ saved [8352/8352]
+
+--2026-06-26 06:03:46--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yyygA.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21728 (21K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yyygA.woff2’
+
+     0K .......... .......... .                               100%  128M=0s
+
+2026-06-26 06:03:46 (128 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yyygA.woff2’ saved [21728/21728]
+
+--2026-06-26 06:03:46--  https://agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yw.woff2
+Reusing existing connection to agenciatributaria.gob-at.eu.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 27348 (27K) [font/woff2]
+Saving to: ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yw.woff2’
+
+     0K .......... .......... ......                          100% 11.9M=0.002s
+
+2026-06-26 06:03:46 (11.9 MB/s) - ‘evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yw.woff2’ saved [27348/27348]
+
+FINISHED --2026-06-26 06:03:46--
+Total wall clock time: 9.4s
+Downloaded: 41 files, 2.2M in 0.8s (2.81 MB/s)
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/es... 20.
+19-0
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-2.css... 15.
+15-0
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-4.css... 51.
+51-0
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-identity_verification.css... nothing to do.
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-address.css... nothing to do.
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-6.css... 30.
+30-0
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-home.css... nothing to do.
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-8.css... 37.
+37-0
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2.css... 12.
+12-0
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-notice.css... nothing to do.
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-1.css... 1.
+1-0
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/spa-card.css... nothing to do.
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-3.css... 28.
+28-0
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/assets/index-c362ab8e.css... nothing to do.
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-5.css... 21.
+21-0
+Converting links in evidencia/snapshot/agenciatributaria.gob-at.eu.cc/we125_es_Taxrefund_agenciatributaria/css2-7.css... 36.
+36-0
+Converted links in 16 files in 0.004 seconds.
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hfind evidencia/snapshot -type f -exec sha256sum {} \; > evidencia/snapshot.sha256[K[A[36mf[36mi[36mn[36md[39m [1me[1mv[1mi[1md[1me[1mn[1mc[1mi[1ma[1m/[1ms[1mn[1ma[1mp[1ms[1mh[1mo[1mt[0m [32m-[32mt[32my[32mp[32me[39m[3C[32m-[32me[32mx[32me[32mc[39m[11C[1m[34m{[0m[39m[1m[34m}[0m[39m[4C[1m[34m>[0m[39m[1B[51D[?1l>[?2004l
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hcutycapt --url="$URL" --out=capturas/landing.png[48D[36mc[36mu[36mt[36my[36mc[36ma[36mp[36mt[39m [32m-[32m-[32mu[32mr[32ml[32m=[33m"[1m[35m$[1m[35mU[1m[35mR[1m[35mL[0m[39m[33m"[39m [32m-[32m-[32mo[32mu[32mt[32m=[32mc[32ma[32mp[32mt[32mu[32mr[32ma[32ms[32m/[32ml[32ma[32mn[32md[32mi[32mn[32mg[32m.[32mp[32mn[32mg[39m[?1l>[?2004l
+pixmap maximum dimension: 2147483647x2147483647
+Geometry of viewport change (800, 600)
+WebEngine completely downloaded document
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hJS=$(find evidencia/snapshot -name '*.js' | head -1)[49D[1m[35m$[1m[34m([0m[39m[36mf[36mi[36mn[36md[39m [1me[1mv[1mi[1md[1me[1mn[1mc[1mi[1ma[1m/[1ms[1mn[1ma[1mp[1ms[1mh[1mo[1mt[0m [32m-[32mn[32ma[32mm[32me[39m [33m'[33m*[33m.[33mj[33ms[33m'[39m [1m[34m|[0m[39m [36mh[36me[36ma[36md[39m [32m-[32m1[39m[1m[34m)[0m[39m[?1l>[?2004l
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hsha256sum "$JS" | tee evidencia/app.min.js.sha256[49D[36ms[36mh[36ma[36m2[36m5[36m6[36ms[36mu[36mm[39m [33m"[1m[35m$[1m[35mJ[1m[35mS[0m[39m[33m"[39m [1m[34m|[0m[39m [36mt[36me[36me[39m[28C[?1l>[?2004l
+f0832bcd33a0fa2100c17d8366a217b93abe0413172efea51ccb0ce012c00e4b  evidencia/snapshot/agenciatributaria.gob-at.eu.cc/assets/index-448bc3b3.js
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hgrep -aoE 'wss?://[^"]+|/[A-Za-z0-9_]+/api[^"]*' "$JS" | sort -u | tee evidencia/iocs_red.txt[K[A[16D[36mg[36mr[36me[36mp[39m [32m-[32ma[32mo[32mE[39m [33m'[33mw[33ms[33ms[33m?[33m:[33m/[33m/[1m[34m[[0m[39m[33m^[33m"[1m[34m][0m[39m[33m+[33m|[33m/[1m[34m[[0m[39m[33mA[33m-[33mZ[33ma[33m-[33mz[33m0[33m-[33m9[33m_[1m[34m][0m[39m[33m+[33m/[33ma[33mp[33mi[1m[34m[[0m[39m[33m^[33m"[1m[34m][0m[39m[33m*[33m'[39m [33m"[1m[35m$[1m[35mJ[1m[35mS[0m[39m[33m"[39m [1m[34m|[0m[39m [36ms[36mo[36mr[36mt[39m [32m-[32mu[39m [1m[34m|[0m[39m [36mt[36me[36me[39m[1B[54D[?1l>[?2004l
+/JccxhIaBaX/api
+/JccxhIaBaX/api/input
+wss://${window.location.host}/ws?token=${e}`)):me=c6(`wss://${window.location.host}/ws?token=${e}`),me==null||me.on(
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hgrep -ao 'we125_es_Taxrefund_agenciatributaria' "$JS" | head -1[63D[36mg[36mr[36me[36mp[39m [32m-[32ma[32mo[39m [33m'[33mw[33me[33m1[33m2[33m5[33m_[33me[33ms[33m_[33mT[33ma[33mx[33mr[33me[33mf[33mu[33mn[33md[33m_[33ma[33mg[33me[33mn[33mc[33mi[33ma[33mt[33mr[33mi[33mb[33mu[33mt[33ma[33mr[33mi[33ma[33m'[39m [33m"[1m[35m$[1m[35mJ[1m[35mS[0m[39m[33m"[39m [1m[34m|[0m[39m [36mh[36me[36ma[36md[39m [32m-[32m1[39m[A[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mgrep[39m [32m-ao[39m [33m'we125_es_Taxrefund_agenciatributaria'[39m [33m"[1m[35m$JS[0m[39m[33m"[39m [1m[34m|[0m[39m [36mhead[39m [32m-1[39m[A[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mgrep[39m [32m-ao[39m [33m'we125_es_Taxrefund_agenciatributaria'[39m [33m"[1m[35m$JS[0m[39m[33m"[39m [1m[34m|[0m[39m [36mhead[39m [32m-1[39m[?1l>[?2004l
+we125_es_Taxrefund_agenciatributaria
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hgrep -ao 'JccxhIaBaX' "$JS" | head -1[37D[36mg[36mr[36me[36mp[39m [32m-[32ma[32mo[39m [33m'[33mJ[33mc[33mc[33mx[33mh[33mI[33ma[33mB[33ma[33mX[33m'[39m [33m"[1m[35m$[1m[35mJ[1m[35mS[0m[39m[33m"[39m [1m[34m|[0m[39m [36mh[36me[36ma[36md[39m [32m-[32m1[39m[?1l>[?2004l
+JccxhIaBaX
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hcurl -s "https://crt.sh/?q=gob-at.eu.cc&output=json" | tee evidencia/crtsh.json[K[A[36mc[36mu[36mr[36ml[39m [32m-[32ms[39m [33m"[33mh[33mt[33mt[33mp[33ms[33m:[33m/[33m/[33mc[33mr[33mt[33m.[33ms[33mh[33m/[33m?[33mq[33m=[33mg[33mo[33mb[33m-[33ma[33mt[33m.[33me[33mu[33m.[33mc[33mc[33m&[33mo[33mu[33mt[33mp[33mu[33mt[33m=[33mj[33ms[33mo[33mn[33m"[39m [1m[34m|[0m[39m [36mt[36me[36me[39m[1B[56D[?1l>[?2004l
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+                                                                             ]0;kali@kali: ~/caso_phishing_aeat
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/caso_phishing_aeat[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hcd ~ && tar czf caso_$(date -u +%Y%m%dT%H%M%SZ).tar.gz caso/
+sha256sum caso_*.tar.gz | tee caso.tar.gz.sha256[K
+[K[A[A[4C[36mc[36md[39m [1m~[0m [1m[34m&[1m[34m&[0m[39m [36mt[36ma[36mr[39m[10C[1m[35m$[1m[34m([0m[39m[36md[36ma[36mt[36me[39m [32m-[32mu[39m[16C[1m[34m)[0m[39m[1B[36ms[36mh[36ma[36m2[36m5[36m6[36ms[36mu[36mm[39m[6C[1m[34m*[0m[39m[8C[1m[34m|[0m[39m [36mt[36me[36me[39m[1B[K[?1l>[?2004l
+tar: caso: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+85cea451eec057fa7e734548ca3ba6d779ed5836a3f9de14b8394575ef0d7d8e  caso_20260626T100635Z.tar.gz
+                                                                             ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hcd ~ && tar czf caso_$(date -u +%Y%m%dT%H%M%SZ).tar.gz caso/[60D[36mc[36md[39m [1m~[0m [1m[34m&[1m[34m&[0m[39m [36mt[36ma[36mr[39m[10C[1m[35m$[1m[34m([0m[39m[36md[36ma[36mt[36me[39m [32m-[32mu[39m[16C[1m[34m)[0m[39m[13C
+[38;5;244msha256sum caso_*.tar.gz | tee caso.tar.gz.sha256[39m[K
+[K[A[A[64C[1B[K[1B[K[A[A[64C[?1l>[?2004l[1Btar: caso: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+                                                                             ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hl[36ml[39m[36ml[39m[38;5;244ms[39m[36ml[36mk[39m[39m[4ml[39m[4mk[24m[4ml[4mk[4ms[24m[4ml[4mk[24m[24m [4ml[24m[24m [24m[36ml[39m[36ml[39m[38;5;244ms[39m[36ml[36ms[39m[?1l>[?2004l
+[0m[01;31mcaso_20260626T100635Z.tar.gz[0m  caso.tar.gz.sha256  [01;34mDownloads[0m  [01;34mPublic[0m
+[01;31mcaso_20260626T100656Z.tar.gz[0m  [01;34mDesktop[0m             [01;34mMusic[0m      [01;34mTemplates[0m
+[01;34mcaso_phishing_aeat[0m            [01;34mDocuments[0m           [01;34mPictures[0m   [01;34mVideos[0m
+                                                                             ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hsha256sum caso_*.tar.gz | tee caso.tar.gz.sha256[48D[36ms[36mh[36ma[36m2[36m5[36m6[36ms[36mu[36mm[39m[6C[1m[34m*[0m[39m[8C[1m[34m|[0m[39m [36mt[36me[36me[39m [1mc[1ma[1ms[1mo[1m.[1mt[1ma[1mr[1m.[1mg[1mz[1m.[1ms[1mh[1ma[1m2[1m5[1m6[0m[?1l>[?2004l
+85cea451eec057fa7e734548ca3ba6d779ed5836a3f9de14b8394575ef0d7d8e  caso_20260626T100635Z.tar.gz
+85cea451eec057fa7e734548ca3ba6d779ed5836a3f9de14b8394575ef0d7d8e  caso_20260626T100656Z.tar.gz
+                                                                             ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hexit   [36me[36mx[36mi[36mt[39m[3C[?1l>[?2004l
+
+Script done on 2026-06-26 06:07:25-04:00 [COMMAND_EXIT_CODE="0"]

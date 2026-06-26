@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <base href="">
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Notificación de la Agencia Tributaria</title>
+  <link href="we125_es_Taxrefund_agenciatributaria/css2.css" rel="stylesheet">
+  <link href="we125_es_Taxrefund_agenciatributaria/css2-1.css" rel="stylesheet">
+  <link href="we125_es_Taxrefund_agenciatributaria/css2-2.css" rel="stylesheet">
+  <link href="we125_es_Taxrefund_agenciatributaria/css2-1.css" rel="stylesheet">
+  <link href="we125_es_Taxrefund_agenciatributaria/css2.css" rel="stylesheet">
+  <link href="we125_es_Taxrefund_agenciatributaria/css2-2.css" rel="stylesheet">
+  <link href="we125_es_Taxrefund_agenciatributaria/css2-5.css" rel="stylesheet">
+  <link href="we125_es_Taxrefund_agenciatributaria/css2-4.css" rel="stylesheet">
+  <link href="we125_es_Taxrefund_agenciatributaria/css2-3.css" rel="stylesheet">
+  <link href="we125_es_Taxrefund_agenciatributaria/css2-8.css" rel="stylesheet">
+  <link href="we125_es_Taxrefund_agenciatributaria/css2-7.css" rel="stylesheet">
+  <link href="we125_es_Taxrefund_agenciatributaria/css2-6.css" rel="stylesheet">
+  <link href="we125_es_Taxrefund_agenciatributaria/spa-identity_verification.css" rel="stylesheet">
+  <link href="we125_es_Taxrefund_agenciatributaria/spa-notice.css" rel="stylesheet">
+  <link href="we125_es_Taxrefund_agenciatributaria/spa-address.css" rel="stylesheet">
+  <link href="we125_es_Taxrefund_agenciatributaria/spa-card.css" rel="stylesheet">
+  <style>
+    html, body {
+      width: 100%;
+      min-height: 100%;
+      margin: 0;
+    }
+
+    body {
+      min-height: 100vh;
+    }
+
+    #app-canvas {
+      width: 100%;
+      min-height: 100vh;
+    }
+
+    .spa-page-root {
+      width: 100%;
+      min-height: 100%;
+    }
+  </style>
+<link rel="stylesheet" href="we125_es_Taxrefund_agenciatributaria/spa-home.css" data-spa-page-stylesheet="true"><style id="spa-page-scoped-styles">:root {
+            --aeat-blue: #005eb5;
+            --aeat-blue-dark: #004a8f;
+            --aeat-blue-soft: #edf4fb;
+            --aeat-border: #d7dde5;
+        }#page-home {
+            font-family: 'Public Sans', sans-serif;
+            min-height: max(884px, 100dvh);
+            background: #f4f7fa;
+        }#page-home .aeat-social-icon {
+            filter: brightness(0) invert(1);
+        }#page-home .aeat-footer {
+            font-family: Arial, Helvetica, sans-serif;
+        } .spa-page-root .hidden { display: none !important; }</style>  <script type="module" crossorigin src="assets/index-448bc3b3.js"></script>
+  <link rel="stylesheet" href="assets/index-c362ab8e.css">
+</head>
+
+
+<body>
+  <div id="app"></div>
+  
+  
+
+</body>
+
+</html>

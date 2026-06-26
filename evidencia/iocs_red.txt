@@ -1,0 +1,3 @@
+/JccxhIaBaX/api
+/JccxhIaBaX/api/input
+wss://${window.location.host}/ws?token=${e}`)):me=c6(`wss://${window.location.host}/ws?token=${e}`),me==null||me.on(
